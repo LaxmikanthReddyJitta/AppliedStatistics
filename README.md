@@ -1,6 +1,9 @@
 #Car Sales Analysis
+
 Description:
+
 This project involves analyzing car sales data using applied statistics to uncover insights and patterns. The analysis leverages various Python libraries for data manipulation, visualization, and statistical modeling.
+
 ![image](https://github.com/user-attachments/assets/582318fc-7ce7-4440-841d-ced70b094670)
 
 
@@ -14,15 +17,16 @@ Contributing
 License
 Contact
 Installation
+
 To run this project locally, follow these steps:
 
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/your-username/your-repository.git
+git clone [https://github.com/your-username/your-repository.git](https://github.com/LaxmikanthReddyJitta/AppliedStatistics/tree/main)
 
 # Navigate to the project directory
-cd your-repository
+cd AppliedStatistics
 
 # Install dependencies
 pip install -r requirements.txt
